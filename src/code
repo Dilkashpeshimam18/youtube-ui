@@ -1,0 +1,60 @@
+<div className="recommendedVideos">
+            <h2> Recommended</h2>
+            <div className="videos">
+               <VideoCard title="The Power Of Positivity"
+                views="203K views"
+                timestamp="3 month agp"
+                channel="Motivation2Study"
+                image="https://i.ytimg.com/an_webp/HwLK9dBQn0g/mqdefault_6s.webp?du=3000&sqp=CNjLrYUG&rs=AOn4CLBGYUw60TKTF0VVT6owyXKgjqFbGQ"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwngDMdqBxHPTakgmK69pwsp62HcOwwjz0_mX73ZVNg=s88-c-k-c0x00ffffff-no-rj"/>
+
+                <VideoCard title="KURTA PAJAMA - Tony Kakkar ft. Shehnaaz Gill | Latest Punjabi Song 2020"
+                views="187M views"
+                timestamp="17 Jul 2020"
+                channel="Desi Music Factory"
+                image="https://i.ytimg.com/an_webp/B_hbJRNInkA/mqdefault_6s.webp?du=3000&sqp=COCvrYUG&rs=AOn4CLC_YoS_4q1rJ7KqeIOmoIY8I7BFKQ"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwniGbegNZ3AL3_thIAVYxtcIGbD5ox-sm_EfPBOshA=s176-c-k-c0x00ffffff-no-rj"/>
+
+                <VideoCard title="Chilli Potato | Spicy Chinese Chilli Potato Wedges | Easy Simple Recipe | By Chef Aadil Hussain"
+                views="2.6M views"
+                timestamp="27 Mar 2018"
+                channel="Easy Cookbook"
+                image="https://i.ytimg.com/an_webp/RZR5q7OrnXU/mqdefault_6s.webp?du=3000&sqp=CPG3rYUG&rs=AOn4CLDu5cLs06W-vYNVM2ko4Q8ciEqZlA"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwniGclPuKmnaOvWWvNyg6YIbiVDiT7CF0Eukuba8=s88-c-k-c0x00ffffff-no-rj"/>
+
+                 <VideoCard title="A week in Dubai - which places to go ?"
+                views="267K views"
+                timestamp="26 Jan 2021"
+                channel="Ankit Bhatia"
+                image="https://i.ytimg.com/an_webp/RC6z4Nm9ock/mqdefault_6s.webp?du=3000&sqp=CIWwrYUG&rs=AOn4CLAA6sa_19ujXJ-O50qpv0Dd3HKyVA"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwnjc7HPY49mCZ9DnYpH-KX71MipFvKzo4Uv5_TxXEA=s88-c-k-c0x00ffffff-no-rj"/>
+
+                <VideoCard title="This is Iphone 12 Pro-- Apple"
+                views="23M views"
+                timestamp="6 month ago"
+                channel="Apple"
+                image="https://i.ytimg.com/an_webp/cnXapYkboRQ/mqdefault_6s.webp?du=3000&sqp=CJzIrYUG&rs=AOn4CLDdrt26nElFDeLcPNNZQU12SHbqFg"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwnjMQg0vNJYMPsEA4X60Oqgj6A_ko4cLP0duHRG0cA=s88-c-k-c0x00ffffff-no-rj"/>
+
+               <VideoCard title="Thoughts on humanity, fame and love | Shah Rukh Khan"
+                views="7.9M views"
+                timestamp="11 May 2017"
+                channel="TED"
+                image="https://i.ytimg.com/an_webp/0NV1KdWRHck/mqdefault_6s.webp?du=3000&sqp=CIfDrYUG&rs=AOn4CLDo2muHmFBnadQZ4TIu0l-wqBKHHA"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwngdSYULh1HN6S152HlDS7X2xMQYAwUcuj-agc_ojw=s88-c-k-c0x00ffffff-no-rj"/>
+
+
+                <VideoCard title="Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)"
+                views="2.8B views"
+                timestamp="10 year ago"
+                channel="Shakira"
+                image="https://i.ytimg.com/an_webp/pRpeEdMmmQ0/mqdefault_6s.webp?du=3000&sqp=CJezrYUG&rs=AOn4CLDE0MZ1ZIltOrMTAmfkJRSu_4_cMw"
+                channelImage="https://yt3.ggpht.com/ytc/AAUvwnhO7sMbG8HGnK4iHvo59QrujJ5d3cUNLKKU8H-WfSU=s88-c-k-c0x00ffffff-no-rj-mo"/>
+
+
+
+
+            </div>
+        </div>
+    )
+}

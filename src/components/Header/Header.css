@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+    
+}
+.menu__icon{
+    color: #606060;
+}
+.header__logo{
+    height: 25px;
+    object-fit: contain;
+    margin-left: 15px;
+}
+.header__center{
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border: 1px solid lightgray;
+    
+}
+.header__right{
+    display: flex;
+    align-items: center;
+    
+}
+.header__icon{
+    margin-right: 8px;
+    color: #606060;
+}
+.header__center>input{
+    flex: 1;
+    border:none;
+    padding: 5px;
+}
+.header__inputButton{
+    width:50px;
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+    color: gray;
+    
+}
+
+@media  screen and (max-width:500px) {
+    .header__center{
+        margin-left: 5px;
+        margin-right: 10px;
+    };
+    .header__right{
+        margin-left: 25px;
+        align-items: flex-end;
+    }
+    
+}
